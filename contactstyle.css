@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Finger+Paint&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau+SC:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau+SC:wght@800&display=swap');
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.greetline1{
+font-family: 'Times New Roman', Times, serif;
+}
+
+.greetline2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
